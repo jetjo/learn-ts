@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        // "target": "ESNEXT",
+        // "module": "commonjs",
+        "esModuleInterop": true,
+        "outDir": "./lib"
+    }
+}
